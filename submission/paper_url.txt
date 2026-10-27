@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+01_first_look_and_discovery:  https://colab.research.google.com/drive/1GtE2BBGFdGR9vNrlz56qH2lkyTAPAJ1z
